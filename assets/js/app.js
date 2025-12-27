@@ -73,5 +73,3 @@ form.addEventListener('submit', async (e) => {
 		renderMessage('Ocurrió un error al buscar. Intenta nuevamente más tarde.');
 	}
 });
-
-
